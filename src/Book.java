@@ -69,4 +69,4 @@ public class Book {
         System.out.println("Новое название книги - " + Roman.getName());
     }
 }
-
+//Очень интересно
